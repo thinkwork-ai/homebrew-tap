@@ -1,8 +1,8 @@
 class Thinkwork < Formula
   desc "CLI for deploying and managing Thinkwork agent infrastructure on AWS"
   homepage "https://github.com/thinkwork-ai/thinkwork"
-  url "https://registry.npmjs.org/thinkwork-cli/-/thinkwork-cli-0.5.4.tgz"
-  sha256 "0bcf81255eb67495ee2d4b3b173046446e1b6b98674d937ac0e6c35dc7d2ea01"
+  url "https://registry.npmjs.org/thinkwork-cli/-/thinkwork-cli-0.8.0.tgz"
+  sha256 "8cdd24bb7bfc3288c87ae314b6a8d324ab65f8684c231205b90ae16fd2ecf55b"
   license "MIT"
 
   depends_on "node@20"
